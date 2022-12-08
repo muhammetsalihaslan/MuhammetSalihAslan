@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salih&label=Profile%20views&color=0e75b6&style=flat" alt="salih" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently improve myself about frontend
 
 - 📫 How to reach me **muhammetsalihaslan@gmail.com**
 
