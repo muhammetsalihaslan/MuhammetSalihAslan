@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Salih</h1>
-<h3 align="center">A passionate Frontend Stack Developer from Turkey</h3> 
+<h3 align="center">A passionate Frontend Developer from Turkey</h3> 
 <img align="right"  alt="Coding" width="400" src="https://as1.ftcdn.net/v2/jpg/03/48/39/74/1000_F_348397404_wXuf22GUPNAh67htBZZnaDSx3Bj92yep.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salih&label=Profile%20views&color=0e75b6&style=flat" alt="salih" /> </p>
